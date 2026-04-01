@@ -1,0 +1,7 @@
+<html>
+<head> 
+<title> hello welcome to web tech </title>
+</head>
+<body>
+</body>
+</html>
